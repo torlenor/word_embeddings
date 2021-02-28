@@ -398,6 +398,7 @@ def get_similarity_matrix_figure(model, similarity_matrix_input):
 
     fig = px.imshow(z, labels=dict(x="Word", y="Word", color="Similarity"), x=x, y=y)
     fig.update_xaxes(side="top")
+    fig.update_layout(width=800, height=600, margin=dict(l=0, r=0, b=0, t=0))
 
     return fig
 
