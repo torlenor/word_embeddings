@@ -1,0 +1,1 @@
+**word2vec_bigram_abc_news** is a Word2Vec model trained from the https://www.kaggle.com/therohk/million-headlines dataset. The dataset contains over a million news headlines published over a period of eighteen years from the Australian Broadcasting Corporation (ABC). It is similar to the word2vec_abc_news model, but it contains bigrams (try searching for new_york).

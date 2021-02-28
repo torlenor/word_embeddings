@@ -1,0 +1,8 @@
+logs/
+.vscode/
+aclImdb/
+.ipynb_checkpoints/
+aclImdb_v1.tar.gz.tar.gz
+*.tsv
+.venv
+.mypy_cache
